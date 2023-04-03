@@ -10,8 +10,8 @@
 - 리눅스 공부
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suminpark123&show_icons=true&theme=radical)
-![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=suminpark123&layout=compact&theme=gotham)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suminpark123&show_icons=true&theme=default)
+![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=suminpark123&layout=compact&theme=default)
 <hr>
 <!--
 **suminpark123/suminpark123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
