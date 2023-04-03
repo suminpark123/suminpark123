@@ -4,7 +4,7 @@
 - 🔭 GAIApro 프로젝트고도화중..
 - 🔭 백준,프로그래머스 문제풀이..
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a55026851@gmail.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suminpark123&show_icons=true&theme=radical)
 <!--
 **suminpark123/suminpark123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
