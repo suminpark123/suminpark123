@@ -2,6 +2,7 @@
 ★우선순위
 - 리눅스 공부중
 - Docker 공부중
+
 ☆취미
 - Side_WebSocket 작업중.. (linux os)
 - GAIApro 프로젝트 고도화중..
