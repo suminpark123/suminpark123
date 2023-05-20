@@ -4,7 +4,7 @@
 - Docker 공부중
 
 ☆취미
-- Side_WebSocket 작업중..
+- Side_WebSocket 작업중..(linux os)
 - GAIApro 프로젝트 고도화중..
 - 백준,프로그래머스 문제풀이..
 <hr>
