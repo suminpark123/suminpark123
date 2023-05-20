@@ -1,4 +1,7 @@
 ### 💬현재 작업하고 있는것_2023.04.01~
+ ★우선순위
+- 리눅스 공부중
+- Docker 공부중
 
 - Side_WebSocket 작업중..
 - GAIApro 프로젝트 고도화중..
@@ -7,7 +10,7 @@
 
 ### 💬현재 계획하고 있는것_2023.04.01~
 - 정처기 공부
-- 리눅스 공부
+
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suminpark123&show_icons=true&theme=default)
